@@ -60,6 +60,30 @@ src/
 └── index.css               # Global styles
 ```
 
+---
+
+## 🚀 Live Demo
+🔗 **[View on Vercel](https://mintrix-erp-harsh.vercel.app)**
+
+---
+
+## 🧩 Tech Stack
+
+| Layer | Tools |
+|-------|--------|
+| Framework | React (Vite) |
+| Styling | Tailwind CSS |
+| Icons | Lucide React |
+| UI Components | shadcn/ui *(optional)* |
+| AI Integration | Serverless OpenAI Proxy (Vercel Function) |
+| Deployment | Vercel |
+
+---
+
+## 🧱 Folder Structure
+
+
+
 ## Design System
 
 - **Colors**: Dark navy background with neon violet (#a855f7) and cyan (#06b6d4) accents
@@ -85,4 +109,5 @@ src/
 - Performance trend charts
 - Activity feed
 - AI chat interface
+
 
