@@ -63,7 +63,7 @@ src/
 ---
 
 ## 🚀 Live Demo
-🔗 **[View on Vercel](https://mintrix-erp-harsh.vercel.app)**
+🔗 **[View on Vercel](https://mintrix-ai-dashboard.vercel.app/)**
 
 ---
 
@@ -109,5 +109,6 @@ src/
 - Performance trend charts
 - Activity feed
 - AI chat interface
+
 
 
